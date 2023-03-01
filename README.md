@@ -1,4 +1,4 @@
 # parcial-1
 
 # Run the project
-yarn ; yarn start
+yarn ; yarn build ; yarn preview
